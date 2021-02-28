@@ -1,0 +1,31 @@
+.user-container {
+  max-width: 80%;
+  /* border: 1px solid red; */
+  margin: 20px 100px 30px;
+}
+.user-box {
+  display: flex;
+  color: #333;
+  /* width: 500px; */
+}
+.user-img {
+  width: 260px;
+  height: 200px;
+}
+.user-img img {
+  width: 100%;
+  border-radius: 10px;
+}
+.user-info {
+  margin-left: 23px;
+}
+.user-info h4 {
+  font-size: 15px;
+}
+.icon-margin {
+  margin-right: 5px;
+}
+.Contact-info {
+  display: flex;
+  font-size: 15px;
+}
